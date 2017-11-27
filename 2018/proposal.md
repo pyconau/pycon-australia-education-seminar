@@ -55,8 +55,10 @@ The general idea of this part of the proposal would be to:
   minute break in between slots. Given the short handover time, we'd presumably use
   a handheld microphone only)
 * Work with the conference organisers to provide a way for teachers, family members,
-  and students to attend just the showcase session for a relatively nominal cost
-  (e.g. $15)
+  and students to attend just the showcase session to support the presenters without
+  having to pay for a full conference registration, or even a full Specialist Track
+  only ticket (e.g. each selected student might receive half a dozen
+  Friday-afternoon-only tickets to hand out)
 * Due to the differences in talk timing, and the possibility of Friday-afternoon-only
   showcase tickets, moving back and forth between the Student Showcase and the other
   specialist tracks would generally be discouraged (but not prohibited)
