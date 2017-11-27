@@ -7,25 +7,31 @@ and techniques for engaging students and teaching with Python that can be direct
 
 Python has long had reputation as an effective beginner programming language. Bringing together educators and
 developers helps developers provide better support for beginners in Python and its libraries, as well as
-giving educators the rare opportunity to develop their own technical skills further.
+giving educators the opportunity to develop their own technical skills further.
 
-As in previous years, talk topics at the miniconf will be open to any educational use of Python but the core
+As in previous years, talk topics at the seminar will be open to any educational use of Python but the core
 focus will continue to be on primary and secondary school education. This includes both formal classroom
 instruction and extracurricular activities.
 
-However, some changes and additions are also being proposed based on our experiences in previous iterations
+However, some changes and additions are also being proposed based on our experiences with previous iterations
 of the event.
 
 Event Organisers
 ----------------
 
-* Lead organiser: Nick Coghlan
-  * 2015 Education Seminar founder & coordinator, 2016/17 co-coordinator with Katie Bell
+* Nick Coghlan
+  * 2015 Education Seminar founder & coordinator
+  * 2016/17 Education Seminar co-coordinator with Katie Bell
   * CPython core developer
-  * Former member of the Python Software Foundation Board of Directors (2014-16)
 
-* Co-organiser: Nicky Ringland? (Bruce Fuda?, Amanda Hogan?)
-  * Australian Computing Academy: https://aca.edu.au/about.html
+* Dr Nicky Ringland
+  * Computing Education Specialist at the Australian Computing Academy
+  * Outreach Officer at the National Computer Science School
+  * Co-founder of Grok Learning
+
+* Additional organisers:
+  * Amanda Hogan (Australian Computing Academy)
+  * Bruce Fuda (Australian Computing Academy)
 
 Event Outline
 -------------
@@ -71,6 +77,10 @@ Additional Events
 Assuming that the 2018 conference once again includes a tutorial day on Thursday,
 we'd like to organise a formal teacher training workshop for that day (in collaboration
 with the Australian Computing Academy).
+
+The exact details of such a workshop (including whether or not it would actually be
+run at the conference tutorial venue, or in another location as an associated event)
+would be figured out closer to the conference.
 
 Financial Aid
 -------------
