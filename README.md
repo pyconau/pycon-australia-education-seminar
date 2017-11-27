@@ -1,2 +1,3 @@
-# pycon-australia-education-seminar
-Public notes &amp; documentation for the PyCon Australia Education Seminar
+# PyCon Australia Education Seminar
+
+Public notes & documentation for the PyCon Australia Education Seminar
