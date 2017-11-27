@@ -51,12 +51,15 @@ The general idea of this part of the proposal would be to:
   presenters at the Showcase (similar to the way Gungahlin College students did
   through the regular CfP for 2017)
 * Accept up to 6 projects for presentation (these would each be given a 15 minute
-  presentation slot *without* any question & answer time, and a ~5 minute break
-  in between slots. Moving back and forth between the Student Showcase and the other
-  specialist tracks would generally be discouraged)
+  presentation slot, including one or two moderated questions to answer, and a ~3
+  minute break in between slots. Given the short handover time, we'd presumably use
+  a handheld microphone only)
 * Work with the conference organisers to provide a way for teachers, family members,
   and students to attend just the showcase session for a relatively nominal cost
   (e.g. $15)
+* Due to the differences in talk timing, and the possibility of Friday-afternoon-only
+  showcase tickets, moving back and forth between the Student Showcase and the other
+  specialist tracks would generally be discouraged (but not prohibited)
 
 Note that while in 2017 there was some question as to whether PyCon Australia
 volunteer organisers needed to apply for and receive the appropriate state credentials
